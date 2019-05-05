@@ -6,6 +6,7 @@ How to use:
 1. From Visual Studio Toolbox, drag and drop custom control to your form:
 
 <img src="https://raw.githubusercontent.com/pymendoza/NullableBindingDateTimePicker/master/Screenshots/toolbox-capture.JPG"/>
+<img src="https://github.com/pymendoza/NullableBindingDateTimePicker/blob/master/Screenshots/form-designer-capture.JPG"/>
 
 2. Set the databindings to the Value property
 <pre>
