@@ -29,6 +29,7 @@ namespace NullableBindingDateTimePicker
             base.Dispose(disposing);
         }
 
+        [Bindable(true), Browsable(false)]
         public new object Value
         {
             get
