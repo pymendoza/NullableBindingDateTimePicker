@@ -1,5 +1,5 @@
 # NullableBindingDateTimePicker
-Custom datetimepicker control for Windows Forms that allows databinding to a nullable DateTime field
+Custom datetimepicker control for Windows Forms that allows databinding to a nullable DateTime field. Null datetime value is represented by an unchecked checkbox on the datetimepicker.
 
 How to use:
 
