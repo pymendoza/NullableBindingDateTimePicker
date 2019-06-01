@@ -42,7 +42,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DateTimePickerDataGridViewCell.cs" />
+    <Compile Include="DateTimePickerEditingControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Include="NullableBindingDateTimePicker.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="NullableBindingDateTimePickerDataGridViewColumn.cs" />
+    <Compile Include="NullableDateTimePicker.cs">
       <SubType>Component</SubType>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
